@@ -1,0 +1,94 @@
+﻿.table {
+	width: 100%;
+	/*表格寬度百分之百*/
+}
+.nav {
+	width: 20%;
+	background-color: #000000;
+	color: #FFFF00;
+	font-family: 標楷體;
+	font-size: x-large;
+	border-width: 0px;
+	border-color: #000000;
+	border-collapse: collapse;
+	empty-cells: show;
+	/*字體大小、顏色、背景顏色、寬度做改變*/
+}
+.bottom {
+	background-color: #C0C0C0;
+	width: 100%;
+	height: 111px;
+/*背景顏色灰色、寬度100%、高度111px*/
+}
+.iframe{
+	width: 100%;
+	height: 500px;
+	/*首頁框架寬度100% 高度500px*/
+}
+.nav2-1{
+	background-size: auto;
+	border: 2px black solid;
+	height: 99px;
+	background-image: url('images/images1.jpg');
+	background-repeat: no-repeat;
+	text-align: right;
+	/*對更多影片的圖形進行修改*/
+}
+.background {
+	background-color: #000080;
+}
+	/*背景顏色藍色*/
+.text1 {
+	font-family: 標楷體;
+	font-weight: bolder;
+	text-align: right;
+	/*字體較粗 標楷體 靠右*/
+}
+.iframe2 {
+	width: 100%;
+	height: 500px;
+	/*角色影片1~4和和更多影片1~4的iframe大小*/
+}
+.chracter1 {
+	background-image: url('images/350px-Mercy-portrait.png');
+	background-repeat: no-repeat;
+	text-align: right;
+	/*第一位角色圖片  不重複 靠右*/
+}
+.chracter2 {
+	background-image: url('images/268px-Pharah-portrait.png');
+	background-repeat: no-repeat;
+	text-align: right;
+	/*第二位角色圖片 不重複 靠右*/
+}
+.chracter3 {
+	background-image: url('images/224px-Soldier76-portrait.png');
+	background-repeat: no-repeat;
+	text-align: right;
+	/*第三位角色圖片 不重複 靠右*/
+}
+.chracter4 {
+	background-image: url('images/_overwatch__reinhardt__render__by_popokupingupop90-daezpwe.png');
+	background-repeat: no-repeat;
+	text-align: right;
+	/*第四位角色圖片 不重複 靠右*/
+}
+.background3 {
+	background-size: auto auto;
+	background-image: url('images/thumb-1920-817183.png');
+	/*更多影片 右邊的背景*/
+}
+.background4 {
+	background-image: url('images/feat-june-14-2.jpg');
+	background-position: center;
+	/*角色介紹 右邊的背景*/
+}
+.background5 {
+	background-image: url('images/thumb-1920-817183.png');
+	background-repeat: no-repeat;
+	/**角色介紹的背景**/
+}
+.wordwhite {
+	color: #FFFFFF;
+	/**字體顏色 白**/
+}
